@@ -1,4 +1,4 @@
-name: deploy yoonJaeMing
+name: deploy KangBakSoo
 
 on:
   push:
